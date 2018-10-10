@@ -12,7 +12,7 @@ class Scraper
   end
   
   def get_courses
-    doc.map do { |course| }
+    doc.css('')map do { |course| }
     
   end
     def print_courses
